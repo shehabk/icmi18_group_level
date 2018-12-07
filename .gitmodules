@@ -1,0 +1,3 @@
+[submodule "src/mtcnn"]
+	path = src/mtcnn
+	url = git@github.com:TropComplique/mtcnn-pytorch.git
